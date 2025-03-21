@@ -126,6 +126,14 @@ cd MoG
 bash install.sh
 ```
 
+## Better installation (for runpod)
+
+```bash
+bash runpod.sh
+bash install.sh
+bash download_checkpoints.sh
+```
+
 ## 🛫	Inference
 
 1. **Place the Model Checkpoint:**
